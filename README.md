@@ -1,16 +1,5 @@
-# bdd_poc
+This repository includes the solution of [this problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) using BDD
 
-A new Flutter project.
+Check [solution file](lib/best_time_to_buy_and_sell_stock_ii.dart) and [scenario file](scenarios/best_time_to_buy_and_sell_stock)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+And run `flutter test test/best_time_to_buy_and_sell_stock_ii_test.dart` 
